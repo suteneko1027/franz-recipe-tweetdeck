@@ -1,6 +1,6 @@
 {
   "id": "tweetdeck-column-notifications",
-  "name": "Tweetdeck + Column Notifications",
+  "name": "tweetdeck-column-notifications",
   "version": "1.0.0",
   "description": "Tweetdeck + Column Notifications",
   "main": "index.js",
