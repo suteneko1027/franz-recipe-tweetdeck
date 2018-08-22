@@ -1,10 +1,10 @@
 {
-  "id": "tweetdeck",
-  "name": "Tweetdeck",
-  "version": "1.0.2",
-  "description": "Tweetdeck",
+  "id": "tweetdeck-column-notifications",
+  "name": "Tweetdeck + Column Notifications",
+  "version": "1.0.0",
+  "description": "Tweetdeck + Column Notifications",
   "main": "index.js",
-  "author": "Stefan Malzner <stefan@adlk.io>",
+  "author": "suteneko1027 <suteneko1027@gmail.com>",
   "license": "MIT",
   "config": {
     "serviceURL": "https://tweetdeck.twitter.com/",
