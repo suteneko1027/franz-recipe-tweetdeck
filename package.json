@@ -1,6 +1,6 @@
 {
-  "id": "tweetdeck-column-notifications",
-  "name": "tweetdeck-column-notifications",
+  "id": "franz-recipe-tweetdeck",
+  "name": "Tweetdeck",
   "version": "1.0.0",
   "description": "Tweetdeck + Column Notifications",
   "main": "index.js",
